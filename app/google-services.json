@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "345519258886",
+    "firebase_url": "https://fir-post8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-post8",
+    "storage_bucket": "fir-post8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345519258886:android:60f70f81381ac890c67287",
+        "android_client_info": {
+          "package_name": "com.git.firebasetodolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOcJxvDmllF9fBqP7o-z2OcFXxO5eCUNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
